@@ -2,7 +2,7 @@
 layout: content
 ---
 
-# WinterMUD
+# Репозиторий WinterMUD
 
 [https://github.com/Muderru/RanvierMUD-RU3](https://github.com/Muderru/RanvierMUD-RU3)
 
@@ -24,6 +24,7 @@ layout: content
 - [x] Сделан на движке [RanvierMUD](https://ranviermud.com/)
 - [x] Вдохновлен классическими Circle-мадами и ARPG типа Diablo II и Grim Dawn
 - [x] Полностью русифицирован
+- [x] Проект с открытым исходным кодом
 
 ### Скриншоты
 
