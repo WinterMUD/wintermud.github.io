@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Сообщения"
+title: "Blog Posts"
 permalink: /blog/
 ---
 
