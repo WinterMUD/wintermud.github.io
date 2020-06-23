@@ -8,4 +8,5 @@ permalink: /help/
 
 * [Снаряжение]({{ site.baseurl }}articles/stuff)
 * [Торговля]({{ site.baseurl }}articles/trade)
+* [Освещение]({{ site.baseurl }}articles/light)
 
