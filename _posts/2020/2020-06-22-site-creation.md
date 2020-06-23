@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:	"Создан сайт WinterMUD"
 date:	2020-06-20 03:00:00
 categories:

@@ -1,5 +1,6 @@
 ---
 layout: content
+comments: true
 ---
 
 # Снаряжение
