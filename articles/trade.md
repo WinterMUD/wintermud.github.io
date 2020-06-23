@@ -1,5 +1,5 @@
 ---
-layout: content
+layout: post
 comments: true
 ---
 
