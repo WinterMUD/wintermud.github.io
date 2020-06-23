@@ -6,5 +6,5 @@ permalink: /help/
 
 # Разделы
 
-Скоро будут.
+* [Снаряжение]({{ site.baseurl }}articles/stuff.md)
 

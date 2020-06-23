@@ -2,7 +2,7 @@
 layout: content
 ---
 
-#  WinterMUD
+# WinterMUD
 
 [Репозиторий на Гитхабе](https://github.com/Muderru/RanvierMUD-RU3)
 
