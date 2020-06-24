@@ -11,4 +11,5 @@ permalink: /help/
 * [Освещение]({{ site.baseurl }}articles/light)
 * [Невидимость и маскировка]({{ site.baseurl }}articles/invis_and_hide)
 * [Постой]({{ site.baseurl }}articles/rent)
+* [Смерть]({{ site.baseurl }}articles/death)
 
