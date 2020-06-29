@@ -5,6 +5,7 @@ layout: content
 # WinterMUD
 
 [Репозиторий на Гитхабе](https://github.com/Muderru/RanvierMUD-RU3)
+[Примеры зон для билдеров](https://github.com/Muderru/RanvierMUD-RU-zones)
 
 ### О нас
 
