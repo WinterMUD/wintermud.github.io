@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:	"Вайп и временная остановка сервера"
+title:	"Тестовый сервер WinterMUD снова запущен"
 date:	2020-06-30 23:08:00
 categories:
     - blog
