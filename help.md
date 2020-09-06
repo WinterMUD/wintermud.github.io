@@ -13,4 +13,5 @@ permalink: /help/
 * [Постой]({{ site.baseurl }}articles/rent)
 * [Смерть]({{ site.baseurl }}articles/death)
 * [Классы и умения]({{ site.baseurl }}articles/classes)
+* [Трансмутация]({{ site.baseurl }}articles/transmutation)
 
